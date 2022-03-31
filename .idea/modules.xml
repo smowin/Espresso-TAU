@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Espresso-TAU.iml" filepath="$PROJECT_DIR$/.idea/Espresso-TAU.iml" group="Espresso-TAU" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Espresso-TAU/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Espresso-TAU.iml" filepath="$PROJECT_DIR$/.idea/modules/Espresso-TAU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/apiservice/Espresso-TAU.apiservice.iml" filepath="$PROJECT_DIR$/.idea/modules/apiservice/Espresso-TAU.apiservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Espresso-TAU.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Espresso-TAU.app.iml" />
     </modules>
   </component>
 </project>

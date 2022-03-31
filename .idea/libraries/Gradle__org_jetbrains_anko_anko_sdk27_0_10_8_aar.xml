@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.anko:anko-sdk27:0.10.8@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bd911c41a838be7a5587d4c8e666eb5e/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/57bd1b8107606deee6c8b5452506c690/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3b6a1b123a410e01e39e5c62188d96f2/jetified-anko-sdk27-0.10.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9a95f8b07c7d49c035829028067abde6/jetified-anko-sdk27-0.10.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c0e3463b9f8c603125fc7476233a532c/transformed/jetified-anko-sdk27-0.10.8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c0e3463b9f8c603125fc7476233a532c/transformed/jetified-anko-sdk27-0.10.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c0e3463b9f8c603125fc7476233a532c/transformed/jetified-anko-sdk27-0.10.8/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-sdk27/0.10.8/48053c3985b44bacd3003713b0cfeb7b75cca232/anko-sdk27-0.10.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
